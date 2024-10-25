@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maiya-Abdullahi
+- 👋 Hi, I’m Sumaiya-Abdullahi
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning python and data science 
 - 💞️ I’m looking to collaborate on python coding 
